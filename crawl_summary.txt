@@ -1,0 +1,6 @@
+rows_out 2519
+dups_merged 30
+rows_rejected 24
+frozen_missing 1
+tasks_redone 1
+notes 现势状态取同一流水号在可见清单中按交易日归并、以最晚一日日终定格的记录；撤销行银行未记账整笔剔除并登记rejects.csv；金额段坏的行另日有正常行的以正常行入账、坏行仍记拒绝；厘位金额四舍五入折为分；冻结缺件的日不查询、期初期末仍按balances.csv链；整任务重抓与落盘缺件的任务登记在crawl_state.json

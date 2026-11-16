@@ -1,0 +1,62 @@
+{
+ "C01|20261101": {
+  "pages": 4,
+  "redone": false,
+  "rows": 80
+ },
+ "C01|20261102": {
+  "pages": 5,
+  "redone": false,
+  "rows": 88
+ },
+ "C01|20261108": {
+  "pages": 4,
+  "redone": false,
+  "rows": 80
+ },
+ "C02|20261102": {
+  "pages": 5,
+  "redone": false,
+  "rows": 86
+ },
+ "C02|20261107": {
+  "pages": 4,
+  "redone": false,
+  "rows": 75
+ },
+ "C03|20261101": {
+  "pages": 4,
+  "redone": false,
+  "rows": 80
+ },
+ "C03|20261104": {
+  "pages": 5,
+  "redone": false,
+  "rows": 82
+ },
+ "C03|20261106": {
+  "pages": 5,
+  "redone": false,
+  "rows": 93
+ },
+ "C03|20261107": {
+  "pages": 5,
+  "redone": false,
+  "rows": 86
+ },
+ "C03|20261108": {
+  "pages": 4,
+  "redone": true,
+  "rows": 71
+ },
+ "C04|20261104": {
+  "pages": 5,
+  "redone": false,
+  "rows": 87
+ },
+ "C04|20261105": {
+  "pages": 5,
+  "redone": false,
+  "rows": 84
+ }
+}
